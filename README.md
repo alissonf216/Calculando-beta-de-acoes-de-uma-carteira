@@ -1,4 +1,4 @@
-# Calculando deta de ações em relação a carteira
+# Calculando beta de ações em relação a carteira
 
 Beta = Covariância entre o Retorno do Ativo e do Mercado / Variância do Retorno do Mercado
 
