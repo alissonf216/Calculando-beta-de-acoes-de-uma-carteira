@@ -25,26 +25,17 @@ Basicamente, podemos dividir o Beta em 3 categorias:
 
 <b>Beta Baixo :</b> Beta < 1
 
-Beta Alto: Beta = 1,5
+# Beta Alto: Beta = 1,5
 ![Beta alto](https://github.com/alissonf216/Calculando-beta-de-acoes-de-uma-carteira/blob/master/Beta-Alto.png)
 
 Neste caso o ativo com Beta de 1,5 tem 1,5x mais risco do que o mercado.
 
-Beta Neutro: Beta = 1,0
-Beta-Neutro
+# Beta Neutro: Beta = 1,0
+![beta neutro](https://github.com/alissonf216/Calculando-beta-de-acoes-de-uma-carteira/blob/master/Beta-Neutro%20(1).png)
 
 Neste caso o ativo com Beta de 1,0 tem o mesmo nível de risco que o mercado.
 
-Beta Baixo: Beta = 0,5
-Beta-Baixo
+# Beta Baixo: Beta = 0,5
+![Beta-Baixo](https://github.com/alissonf216/Calculando-beta-de-acoes-de-uma-carteira/blob/master/Beta-Baixo.png)
 
 Neste caso o ativo com Beta de 0,5 tem metade do risco em relação ao mercado.
-
-Índice Beta: Ações x Ibovespa
-Já vimos os exemplos teóricos sobre o Índice Beta.
-
-Agora é o momento de analisar o Beta de algumas ações selecionadas do Ibovespa.
-
-São elas: BVMF3 | USIM5 | PETR4 | SBSP3 | LIGT3
-
-Você saberia dizer quais tem características agressivas (Beta > 1) ou defensivas (Beta < 1)?
