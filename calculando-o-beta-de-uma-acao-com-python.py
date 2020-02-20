@@ -1,9 +1,4 @@
 
-# coding: utf-8
-
-# In[7]:
-
-
 import numpy as np
 from datetime import date
 import quandl
