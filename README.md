@@ -11,9 +11,6 @@ Ou desta maneira:
 ra = Retorno do Ativo
 rp = Retorno do Portfólio (Também pode ser usado como rm = Retorno do Mercado)
 
-<b>No Excel a fórmula utilizada é:</b>
-=covar(retornos do mercado;retornos do ativo)/var(retornos do mercado)
-
 Nota: Você deve colocar os retornos diários e não os preços dos ativos para calcular o Beta.
 
 # Índice Beta e sua Usabilidade
