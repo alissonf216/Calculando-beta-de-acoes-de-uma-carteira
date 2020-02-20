@@ -31,7 +31,7 @@ Basicamente, podemos dividir o Beta em 3 categorias:
 Neste caso o ativo com Beta de 1,5 tem 1,5x mais risco do que o mercado.
 
 # Beta Neutro: Beta = 1,0
-![beta neutro](https://github.com/alissonf216/Calculando-beta-de-acoes-de-uma-carteira/blob/master/Beta-Neutro%20(1).png)
+![beta neutro](https://github.com/alissonf216/Calculando-beta-de-acoes-de-uma-carteira/blob/master/Beta-Neutro.png)
 
 Neste caso o ativo com Beta de 1,0 tem o mesmo nível de risco que o mercado.
 
